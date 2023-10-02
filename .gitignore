@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# My ignore
+*.csv
+data/archive/
+*.zip
+
 # C extensions
 *.so
 
