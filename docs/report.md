@@ -26,7 +26,6 @@ The primary objectives of this project are:
 
 By addressing these challenges and combining insights from ViTs and Transformers, we can unlock the potential of emotion-aware technology across various domains.
 
-Note: Farshad Safavi (fsafavi1@umbc.edu) and I conducted original research in the Sensorimotor Control Laboratory at UMBC (https://vinjamurilab.cs.umbc.edu) under the guidance of Prof. Ramana Vinjamuri. While our initial research involved extensive training and testing files with disorganized and repetitive code, I have chosen to revisit this project as my capstone for DATA 606. This decision allows me to leverage this work as a platform to demonstrate my mastery of Data Science, acquired during my Master's program.
 
 ## 2. Data
 
@@ -135,6 +134,7 @@ improved accuracy. Experimental results demonstrate that the proposed method ach
 ## 10. References:
 
 
+
 1. T. Ojala, M. Pietikainen, and T. Maenpaa, “Multiresolution grayscale and rotation invariant texture classification with local binary patterns,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 24, no. 7, pp. 971–987, 2002, doi: 10.1109/TPAMI.2002.1017623.
 2. D. G. Lowe, “Distinctive Image Features from Scale-Invariant Keypoints,” Int. J. Comput. Vis., vol. 60, no. 2, pp. 91–110, 2004, doi: 10.1023/B:VISI.0000029664.99615.94.
 3. L. Pham, T. H. Vu, and T. A. Tran, “Facial Expression Recognition Using Residual Masking Network,” in 2020 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 4513–4519. doi: 10.1109/ICPR48806.2021.9411919.
@@ -147,3 +147,8 @@ improved accuracy. Experimental results demonstrate that the proposed method ach
 10. G. Huang, Z. Liu, L. Van Der Maaten, and K. Q. Weinberger, “Densely Connected Convolutional Networks,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2261–2269. doi: 10.1109/CVPR.2017.243.
 11. F. Wang et al., “Residual Attention Network for Image Classification,” CoRR, vol. abs/1704.0, 2017, [Online]. Available: http://arxiv.org/abs/1704.06904
 13. S. Woo, J. Park, J.-Y. Lee, and I.-S. Kweon, “CBAM: Convolutional Block Attention Module,” in European Conference on Computer Vision, 2018.
+
+
+
+
+Note: Farshad Safavi (fsafavi1@umbc.edu) and I conducted original research in the Sensorimotor Control Laboratory at UMBC (https://vinjamurilab.cs.umbc.edu) under the guidance of Prof. Ramana Vinjamuri. While our initial research involved extensive training and testing files with disorganized and repetitive code, I have chosen to revisit this project as my capstone for DATA 606. This decision allows me to leverage this work as a platform to demonstrate my mastery of Data Science, acquired during my Master's program.
