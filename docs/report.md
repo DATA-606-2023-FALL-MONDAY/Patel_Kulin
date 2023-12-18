@@ -1,8 +1,8 @@
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kulin-patel">Presentation</a> |
+  <a href="https://docs.google.com/presentation/d/1lMAK-kct1tDIYWhcqTnorclHxus9qVYs">Presentation</a> |
   <a href="https://github.com/DATA-606-2023-FALL-MONDAY/Patel_Kulin">GitHub Repository</a> |
-  <a href="https://www.youtube.com/some-video-link">YouTube Video</a>
+  <a href="">YouTube Video</a>
 </p>
 
 <h1 align="center">Develop a Computationally Efficient Transformer-based Architecture for Facial Expression Recognition (FER)</h1>
@@ -147,7 +147,6 @@ improved accuracy. Experimental results demonstrate that the proposed method ach
 10. G. Huang, Z. Liu, L. Van Der Maaten, and K. Q. Weinberger, “Densely Connected Convolutional Networks,” in 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 2261–2269. doi: 10.1109/CVPR.2017.243.
 11. F. Wang et al., “Residual Attention Network for Image Classification,” CoRR, vol. abs/1704.0, 2017, [Online]. Available: http://arxiv.org/abs/1704.06904
 13. S. Woo, J. Park, J.-Y. Lee, and I.-S. Kweon, “CBAM: Convolutional Block Attention Module,” in European Conference on Computer Vision, 2018.
-
 
 
 
