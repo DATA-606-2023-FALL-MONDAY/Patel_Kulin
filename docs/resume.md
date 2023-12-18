@@ -2,7 +2,7 @@
 
 <!--- ![Kulin](https://kulinpatel.com/wp-content/uploads/2021/04/kulin-e1618501727975-300x300.jpg)  -->
 <p align="center">
-<img src="kulin.jpg" 
+<img src="assets/kulin.jpg" 
         alt="Picture" 
         width="100" 
         height="100" 
